@@ -77,8 +77,6 @@ https://www.figma.com/design/GH5Himz1qSnZwDsi8zB1Am/Sem-t%C3%ADtulo?node-id=0-1&
  
 ## Ciclo de vida da portaria
  
-![bg right:42% fit](06-regras-de-negocio/ciclo.png)
- 
 Solicitada → Em validação → Aprovada → Emitida em PDF → Assinada → **Vigente** → A vencer → Vencida
  
 Também pode ser **rejeitada**, **devolvida para ajustes**, **revogada** ou ganhar **nova versão**.
